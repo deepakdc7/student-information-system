@@ -1,10 +1,7 @@
 <html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
-    </head>
-<body>
-    <CENTER>    <h1> LIST OF DEALERS</h1> </CENTER>
-  <style>
+    <style>
   body {
 background: linear-gradient(45deg, rgba(239,255,191,1) 0%, rgba(43,184,255,1) 99%, rgba(43,184,255,1) 100%); 
       font-family: 'Arvo', serif;
@@ -32,8 +29,10 @@ table#t01 th {
       
       
   </style>
-
-    <CENTER>
+    </head>
+<body>
+    <CENTER>    <h1> LIST OF DEALERS</h1> </CENTER>
+       <CENTER>
     <BR>
         <BR>
         <table id="t01" cellspacing=10px cellpadding=10px>
